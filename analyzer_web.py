@@ -1,6 +1,5 @@
 import numpy
 import pandas
-import sklearn
 import torch
 import requests
 import selenium
